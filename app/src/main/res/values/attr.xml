@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CustomView">
+        <attr name="defaultEditTextValue" format="string"/>
+        <attr name="defaultHintValue" format="string"/>
+        <attr name="buttonColor" format="color"/>
+        <attr name="loadingMode" format="boolean"/>
+        <attr name="buttonConfirmText" format="string"/>
+    </declare-styleable>
+
+</resources>
